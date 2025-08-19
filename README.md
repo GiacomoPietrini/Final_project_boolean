@@ -15,3 +15,5 @@ It presents a complete **e-commerce analysis** built with **Tableau**, through s
 ## 🎯 Project Goal
 
 The objective of this project is to provide a **360° view of e-commerce activity**, supporting data-driven decision-making across marketing, sales, product management, and logistics.
+
+Every dashboard is interactive and allows dynamic data exploration.
